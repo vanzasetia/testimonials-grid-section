@@ -9,7 +9,7 @@ computer or laptop ☺️.
 ## Feedback and Live Review
 
 Feel free to give [feedback]() to me on Frontend Mentor and here is
-[live review]()
+[live review](https://testimonials-grid-section-vs.netlify.app/)
 
 ## Tools
 
