@@ -1,0 +1,27 @@
+$default-html-font-size: 100% !default;
+$black: rgb(17, 17, 17) !default;
+$white: rgb(255, 255, 255) !default;
+
+// Specific Variables Only For this project
+
+/// PRIMARY COLORS ///
+$moderate-violet: hsl(263, 55%, 52%);
+$very-dark-grayish-blue: hsl(217, 19%, 35%);
+$very-dark-blackish-blue: hsl(219, 29%, 14%);
+
+/// NEUTRAL COLOR ///
+$light-gray: hsl(0, 0%, 81%);
+$light-grayish-blue: hsl(210, 46%, 95%);
+
+// Breakpoints
+$breakpoints-up: (
+  'small': 31.25em,
+  'medium': 43.75em,
+  'large': 75em
+);
+
+$breakpoints-down: (
+  'small': 31.1875em,
+  'medium': 43.6875em,
+  'large': 74.9375em
+);
