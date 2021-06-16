@@ -72,6 +72,7 @@ main {
 /// CARD ///
 .card {
   border-radius: 0.5em;
+  box-shadow: rem(8) rem(8) rem(20) rgba($very-dark-blackish-blue, 0.25);
   padding: rem(23) rem(32);
   
   &__heading {
